@@ -1,0 +1,11 @@
+0 barrier
+T townhall
+I itemshop
+$ money
+~ water
+# soil
+p sprout
+P plant
+* flower
+ tree
+ rock
